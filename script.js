@@ -1,7 +1,7 @@
 
 "use strict";
 
-const WHATSAPP_NUMBER = "254735777777";
+const WHATSAPP_NUMBER = "254737672356";
 
 const orderForm = document.getElementById("order-form");
 const enquirySelect = document.getElementById("enquiry-type");
